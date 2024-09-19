@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#008761",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "社区风采展示",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
